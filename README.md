@@ -25,10 +25,10 @@ plain-English analysis with concrete next steps — no data leaves your machine.
 ![AI Analysis](screenshots/04_ai_analysis_subenum_httpx.png)
 
 **Second target — port scan, tech fingerprint & WAF detection**
-![WAF Detection](screenshots/05_port_tech_waf-ex_2_.png)
+![WAF Detection](screenshots/05_port_tech_waf_2.png)
 
 **Second target — AI analysis with multiple subdomains found**
-![Multi-subdomain example](screenshots/06_ai_analysis_subenum_httpx-ex_2_.png)
+![Multi-subdomain example](screenshots/06_ai_analysis_subenum_httpx_2.png)
 
 ## Features
 
