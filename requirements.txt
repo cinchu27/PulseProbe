@@ -1,0 +1,8 @@
+llama-cpp-python>=0.2.90
+huggingface_hub>=0.23.0
+dnspython>=2.6.0
+python-whois>=0.9.4
+requests>=2.31.0
+pypdf>=4.0.0
+rich>=13.7.0
+questionary>=2.0.1

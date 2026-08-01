@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+
+# Model cache (large, downloaded on first run -- not something to commit)
+.cache/
+*.gguf
+
+# Scan output (contains recon data from whatever you scanned -- don't commit real target data)
+reports/
+
+# OS/editor cruft
+.DS_Store
+.idea/
+.vscode/
+*.swp
