@@ -10,6 +10,26 @@ plain-English analysis with concrete next steps — no data leaves your machine.
 > systems you own or have explicit written permission to test. Unauthorized
 > scanning is illegal.
 
+## Screenshots
+
+**CLI usage & flags**
+![CLI help](screenshots/01_chat_help.png)
+
+**Startup banner & model loading**
+![Banner](screenshots/02_banner_and_model.png)
+
+**Live module dashboard, port scan & tech fingerprint**
+![Dashboard](screenshots/03_dashboard_port_tech.png)
+
+**AI analysis, subdomain enumeration & httpx probing**
+![AI Analysis](screenshots/04_ai_analysis_subenum_httpx.png)
+
+**Second target — port scan, tech fingerprint & WAF detection**
+![WAF Detection](screenshots/05_port_tech_waf-ex_2_.png)
+
+**Second target — AI analysis with multiple subdomains found**
+![Multi-subdomain example](screenshots/06_ai_analysis_subenum_httpx-ex_2_.png)
+
 ## Features
 
 - **Host discovery** — nmap-based liveness check before deeper scanning
